@@ -167,30 +167,6 @@ I'm a **Data Scientist & AI Engineer** from Karachi 🇵🇰 who builds **produc
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d111700" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d111700&stroke=00A6A6&ring=00A6A6&fire=00A6A6" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d111700&langs_count=8" alt="Top Languages"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Productive Time"/>
-
-<br/>
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00A6A6&line=00A6A6&point=ffffff&area=true&area_color=00A6A6" alt="GitHub Activity Graph"/>
-
-<br/>
-
-<img width="97%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📫 Let's Build Something Intelligent
 
 <div align="center">
