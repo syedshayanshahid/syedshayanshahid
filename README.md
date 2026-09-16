@@ -145,14 +145,14 @@ I'm a **Data Scientist & AI Engineer** from Karachi 🇵🇰 who builds **produc
 ## 🧭 My Journey
 
 ```
-🎓  Apr 2026 →  Present  MS Computer Science · Sir Syed University of Engineering & Technology
-🏢  Sep 2025 →  Present  Management Trainee Officer · Imtiaz (SAP S4/HANA · 13 warehouses · 34 stores)
-💻  May 2024 →  Present  Freelance Data Scientist · RAG systems, NLP & ML pipelines for global clients
-📊  Jan 2020 →  May 2024 Research Analyst · MaijiTech (data pipelines, predictive models, BI)
-🎓  Jan 2024 →  Apr 2025 PG Diploma, Data Science with AI · NED University of Engineering & Technology
-🌟  Jan 2023 →  Started learning Data Analytics from Coursera
-🏠  Mar 2020 →  Dec 2022 I was in a lockdown due to COVID-19
-⚡  2016 → 2019 BS Electrical Engineering · Sir Syed University of Engineering & Technology
+- 🎓  Apr 2026 →  Present  MS Computer Science · Sir Syed University of Engineering & Technology
+- 🏢  Sep 2025 →  Present  Management Trainee Officer · Imtiaz (SAP S4/HANA · 13 warehouses · 34 stores)
+- 💻  May 2024 →  Present  Freelance Data Scientist · RAG systems, NLP & ML pipelines for global clients
+- 📊  Jan 2020 →  May 2024 Research Analyst · MaijiTech (data pipelines, predictive models, BI)
+- 🎓  Jan 2024 →  Apr 2025 PG Diploma, Data Science with AI · NED University of Engineering & Technology
+- 🌟  Jan 2023 →  Started learning Data Analytics from Coursera
+- 🏠  Mar 2020 →  Dec 2022 I was in a lockdown due to COVID-19
+- ⚡  2016 → 2019 BS Electrical Engineering · Sir Syed University of Engineering & Technology
 ```
 
 ### 📜 Certifications
