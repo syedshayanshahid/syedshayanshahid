@@ -172,8 +172,7 @@ I'm a **Data Scientist & AI Engineer** from Karachi 🇵🇰 who builds **produc
 <div align="center">
 
 <a href="mailto:syedshayanshahid@gmail.com"><img src="https://img.shields.io/badge/Gmail-syedshayanshahid@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="tel:+923352729802"><img src="https://img.shields.io/badge/Phone-%2B92%20335%202729802-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+<a href="https://www.linkedin.com/in/syed-shayan-shahid"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 **Open to:** RAG consulting · Agentic AI development · ML/NLP projects · Data science collaborations
 
