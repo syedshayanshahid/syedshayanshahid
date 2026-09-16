@@ -13,8 +13,6 @@
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0C10,50:1F2833,100:00A6A6&amp;height=280&amp;section=header&amp;text=Syed%20Shayan%20Shahid&amp;desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20RAG%20%26%20Agentic%20AI&amp;descSize=22&amp;fontSize=42&amp;fontColor=ffffff&amp;descColor=00A6A6&amp;animation=fadeIn" width="100%" height="280" alt="Syed Shayan Shahid — Data Scientist | AI Engineer"/>
-
 <div align="center">
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2800&amp;pause=700&amp;color=00A6A6&amp;center=true&amp;vCenter=true&amp;width=660&amp;height=50&amp;lines=Data+Scientist+%F0%9F%93%8A;AI+Engineer+%F0%9F%A4%96;RAG+Pipeline+Architect+%F0%9F%94%8D;Agentic+AI+Developer+%F0%9F%A7%A0;LLM+Systems+Builder+%E2%9A%A1" alt="Typing SVG — rotating titles" /></a>
